@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="Theme.Demo" parent="Theme.Sherlock.Light">
+<!--         <item name="actionBarStyle">@style/Widget.Demo.ActionBar</item> -->
+<!--         <item name="android:actionBarStyle">@style/Widget.Demo.ActionBar</item> -->
+        <item name="android:selectableItemBackground">@drawable/selector_actionbar</item> 
+        <item name="android:actionBarItemBackground">@drawable/selector_actionbar</item>
+        <item name="actionBarItemBackground">@drawable/selector_actionbar</item>
+    	
+    	 
+    <!-- Widgets -->
+        <item name="android:textViewStyle">@style/TextViewStyle</item>
+    </style>
+    
+    </resources>

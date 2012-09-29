@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="body_padding">5dp</dimen>
+    <dimen name="body_padding_large">5dp</dimen>
+    <dimen name="text_size_xsmall">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_xmedium">16sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_xlarge">22sp</dimen>
+    <dimen name="mensajegrid_padding">0dp</dimen>
+    <dimen name="mensajegrid_columnWidth">300dp</dimen>
+    <dimen name="mensajegrid_spacing">10dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+
+</resources>

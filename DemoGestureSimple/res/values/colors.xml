@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="text_faded">#FF666666</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_primary">#FFF1F1F1</color>
+    <color name="text_dim">#FF808080</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="gray_dark">#0f0e0e</color>
+    <color name="white">#FFFFFF</color>
+	<color name="menu_pressed">#F7BF05</color>
+</resources>

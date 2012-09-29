@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Simple Gesture</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_main">Simple Gesture</string>
+
+</resources>
